@@ -1,8 +1,0 @@
-* -- In this Project we are going to implement the following functionalities : 
-
-Authentication
-Seurity password by hashing them
-Introducing JWT tokens and Its implementations
-Connecting Frontend with Backend
-Upload code to Github
-Deployment at Render and Netlify
